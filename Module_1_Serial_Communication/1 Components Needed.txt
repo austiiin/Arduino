@@ -1,0 +1,4 @@
+Serial Communication
+
+Components:
+(1x) Arduino UNO R3
